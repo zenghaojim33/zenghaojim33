@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anson
 - 👀 I’m interested in iOS development, Devops and hybrid apps
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me : @houtsang
 
 <!---
